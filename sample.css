@@ -1,0 +1,157 @@
+body{
+	width:60%;
+	margin:auto;
+}
+   
+#contact{
+	text-align:right;
+}
+
+#logo{
+	float:left;
+}
+
+h1{
+	height:20px;
+	font-size:2.2vw;
+} 
+
+p{
+	padding:0px;
+}
+
+#mainmenu{
+	text-align:right;
+	background-color:skyblue;
+	margin-top:20px;
+	padding:1px;
+	color:brown;
+	font-weight:bold;
+}
+
+#appleimage{
+	width:100%;
+}
+
+#aboutus{
+	width:100%;
+	
+}
+
+#aboutushead{
+	background-color:red;
+	color:white;
+	padding:2px;
+	margin-bottom:0px;
+}
+
+#aboutusdis{
+	background-color:beige;
+	padding:15px;
+	text-align:justify;
+}
+
+
+
+#detail{
+	width:100%;
+	height:15px;
+	float:left;
+}
+
+#product{
+	list-style-type:disc;
+}
+
+#products{
+	width:100%;
+	height:150px;
+	float:left;
+}
+
+#heading{
+	padding:20px;
+}
+
+#para{
+	padding:20px;
+	text-align:justify;
+	background-color:#f0f0f1;
+}
+
+#nav{
+	overflow:auto;
+	color:white;
+}
+
+#nav li{
+	float:right;
+	list-style-type:none;
+	padding:0px 10px;
+}
+
+#nav li a{
+	color:brown;
+}
+
+#head{
+	padding:10px;
+}
+
+#head-1{
+	margin-bottom:0px;
+	background-color:lightgray;
+	padding:2px;
+}
+
+#para-1{
+	margin-top:0px;
+	background-color:#72aee6;
+	text-align:justify;
+	padding:5px;
+}
+
+#para-2{
+	text-align:justify;
+}
+
+#list{
+	list-style-type:square;
+}
+
+#para-3{
+	padding:18px;
+	text-align:justify;
+	background-color:#72aee6;
+}
+
+#para-4{
+	padding:18px;
+	text-align:justify;
+	background-color:beige;
+}
+
+#para-5{
+	padding:18px;
+	text-align:justify;
+	background-color:blanchedalmond;
+}
+
+#para-6{
+	padding:18px;
+	text-align:justify;
+	background-color:gray;
+	color:white;
+}
+
+#para-7{
+	padding:20px;
+	text-align:justify;
+	background-color:#f0f0f1;
+	margin-top:0px;
+}
+
+#para-8{
+	font-style:italic;
+	font-weight:bold;
+}
